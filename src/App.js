@@ -5,8 +5,11 @@ import MemeGenerator from "./components/MemeGenerator"
 function App() {
   return(
     <div>
-      < Header />
-      < MemeGenerator />
+      <div>
+        < Header />
+        < MemeGenerator />
+      </div>
+
 
     </div>
   )
